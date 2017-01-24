@@ -2,7 +2,7 @@
 C++ command line tool that displays multiple configurable notifications on the screen for Windows.
 
 ## Compile
-Open Notify.sln file with Visual Studio and build either Debug or Release version.
+Open 'Notify.sln' file with Visual Studio and build either Debug or Release version.
 I tested it with Visual Studio 2015.
 
 ## Run
