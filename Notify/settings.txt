@@ -1,0 +1,15 @@
+font quality:   :5
+font size:   :18
+font face:   :Consolas
+font color red:   :255
+font color green:   :200
+font color blue:   :55
+background color red:   :0
+background color green:   :0
+background color blue:   :0
+location x:   :20
+location y:   :0
+border percentage:   :0.15
+time duration:   :7
+smoothness speed:   :30
+disapear on hover:   :true
